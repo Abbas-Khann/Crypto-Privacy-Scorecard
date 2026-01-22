@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/kushagra/Developer/temp-abbas/Crypto-Privacy-Scorecard/app/layout\":[\"static/media/9a4ee768fed045da-s.p.woff2\",\"static/media/03f2d74f5e7b171e-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
